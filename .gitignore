@@ -8,4 +8,5 @@
 *.sublime*
 includ_html/
 node_modules/
+template/
 Thumbs.db
